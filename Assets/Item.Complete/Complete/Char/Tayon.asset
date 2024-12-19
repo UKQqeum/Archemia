@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f715bc173cd7b5b4faee7a5b0342c0ce, type: 3}
+  m_Name: Tayon
+  m_EditorClassIdentifier: 
+  itemName: "\uD0C0\uC774\uC5B8"
+  itemType: 7
+  itemImage: {fileID: -2067647142, guid: 093dade710317714d81dc8aa31d01dc7, type: 3}
+  itemPrefab: {fileID: 0}
+  itemStatusText: 
+  detailed_image: {fileID: -2067647142, guid: 093dade710317714d81dc8aa31d01dc7, type: 3}
+  itemNumber: 3810
+  item_: 0
+  Love: 0
+  Hunger: 0
+  Stature: 0
+  Start: 0
+  End: 0
+  Count: 11
+  Head: 10
+  Eye: 8
+  Tail: 3

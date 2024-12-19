@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f715bc173cd7b5b4faee7a5b0342c0ce, type: 3}
+  m_Name: Everfresh
+  m_EditorClassIdentifier: 
+  itemName: "\uC5D0\uBC84\uD504\uB808\uC2DC"
+  itemType: 0
+  itemImage: {fileID: 1388729521, guid: 0f1d389a7eb6e0640b4d96f9b8021dbe, type: 3}
+  itemPrefab: {fileID: 0}
+  itemStatusText: "\uC5D0\uBC84\uD504\uB808\uC2DC\n\uBC30\uACE0\uD514\uC744 20% \uD574\uACB0\uD574
+    \uC904 \uAC83 \uAC19\uB2E4."
+  detailed_image: {fileID: 1388729521, guid: 0f1d389a7eb6e0640b4d96f9b8021dbe, type: 3}
+  itemNumber: +20%
+  item_: 1
+  Love: 0
+  Hunger: 0.2
+  Stature: 0
+  Start: 0
+  End: 0
+  Count: 0
+  Head: 
+  Eye: 
+  Tail: 

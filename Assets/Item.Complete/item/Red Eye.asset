@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f715bc173cd7b5b4faee7a5b0342c0ce, type: 3}
+  m_Name: Red Eye
+  m_EditorClassIdentifier: 
+  itemName: "\uBD89\uC740 \uB208"
+  itemType: 3
+  itemImage: {fileID: -815810163, guid: d4d86ceeb7ab9fa409b31113ebfd3182, type: 3}
+  itemPrefab: {fileID: 5366476554570421917, guid: ddd7094b244cde4408876e03838ec8ef, type: 3}
+  itemStatusText: "\uBD89\uC740 \uB208\n\uC5B8\uB355\uC5D0\uC11C \uBC1C\uACAC\uD55C
+    \uC7AC\uB8CC."
+  detailed_image: {fileID: 258744886, guid: d80e945639831ed45bdd2a30d482ac7c, type: 3}
+  itemNumber: 2
+  item_: 0
+  Love: 0
+  Hunger: 0
+  Stature: 0
+  Start: 0
+  End: 0
+  Count: 0
+  Head: 
+  Eye: 
+  Tail: 

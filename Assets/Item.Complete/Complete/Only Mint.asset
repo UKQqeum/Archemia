@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f715bc173cd7b5b4faee7a5b0342c0ce, type: 3}
+  m_Name: Only Mint
+  m_EditorClassIdentifier: 
+  itemName: "\uCE58\uC774"
+  itemType: 7
+  itemImage: {fileID: 817305565, guid: 98b8605a76020ff409723de4d80f0aa2, type: 3}
+  itemPrefab: {fileID: 0}
+  itemStatusText: 
+  detailed_image: {fileID: 817305565, guid: 98b8605a76020ff409723de4d80f0aa2, type: 3}
+  itemNumber: 654
+  item_: 0
+  Love: 0
+  Hunger: 0
+  Stature: 0
+  Start: 0
+  End: 0
+  Count: 1
+  Head: 4
+  Eye: 5
+  Tail: 6
